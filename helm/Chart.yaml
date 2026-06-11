@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-procurement
+description: "BIAN Service Domain: Procurement (Process pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Corporate Services"
+  bian/asset-type: "Purchase Order"
+  bian/control-record: "Purchase Order Procedure"
